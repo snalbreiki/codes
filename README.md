@@ -11,7 +11,7 @@
     :root {
       --bg:      #fff5f7;
       --surface: #ffffff;
-      --pink-3:  #f472b6;
+      --pink-3:  #00FFFF;
       --text:    #3d1a26;
       --muted:   #b07090;
       --border:  #fce7ef;
