@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 
 <html lang="en">
-<head><><><><>>>>>>
+<head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Status</title>
@@ -204,7 +204,56 @@ td.code { color: var(--text); letter-spacing: 0.05em; }
 </div>
 
 <script>
-  const deliverRows = ['java.net.SocketTimeout','java.net.SocketTimeout','java.net.SocketTimeout','java.net.SocketTimeout','java.net.SocketTimeout','java.net.SocketTimeout','java.net.SocketTimeout','NABX69URQT32QXJP','NABX38JYZJ9NZK7F','NABX3N35MWJA5FCJ','NABX36WREWRD76FM','NABX3K7T92PLQ4ZM','NABX3RT27QEGJA4A','java.net.SocketTimeout','java.net.SocketTimeout','NABX3MQDXJAZTDZ3','java.net.SocketTimeout','NABX3KPGF2D3GRPP','NABX3FPRNN6TCGVG','java.net.SocketTimeout','java.net.SocketTimeout','java.net.SocketTimeout','java.net.SocketTimeout','java.net.SocketTimeout','NABX3PK84VW2NR6C','NABX3T88TTY9J8V7','NABX3HQ57MXD9F2W'];
+  const deliverRows = [
+    'java.net.SocketTimeout',
+    'java.net.SocketTimeout',
+    'java.net.SocketTimeout',
+    'java.net.SocketTimeout',
+    'java.net.SocketTimeout',
+    'java.net.SocketTimeout',
+    'java.net.SocketTimeout',
+    'NABX69URQT32QXJP',
+    'NABX38JYZJ9NZK7F',
+    'NABX3N35MWJA5FCJ',
+    'NABX36WREWRD76FM',
+    'NABX3K7T92PLQ4ZM',
+    'NABX3RT27QEGJA4A',
+    'java.net.SocketTimeout',
+    'java.net.SocketTimeout',
+    'NABX3MQDXJAZTDZ3',
+    'java.net.SocketTimeout',
+    'NABX3KPGF2D3GRPP',
+    'NABX3FPRNN6TCGVG',
+    'java.net.SocketTimeout',
+    'java.net.SocketTimeout',
+    'java.net.SocketTimeout',
+    'java.net.SocketTimeout',
+    'java.net.SocketTimeout',
+    'NABX3PK84VW2NR6C',
+    'NABX3T88TTY9J8V7',
+    'NABX3HQ57MXD9F2W',
+    // +
+    'java.net.SocketTimeout',
+    'java.net.SocketTimeout',
+    'java.net.SocketTimeout',
+    'java.net.SocketTimeout',
+    'java.net.SocketTimeout',
+    'java.net.SocketTimeout',
+    'java.net.SocketTimeout',
+    'java.net.SocketTimeout',
+    'java.net.SocketTimeout',
+    'java.net.SocketTimeout',
+    'java.net.SocketTimeout',
+    
+    'NABX3WDR4K6P7RXJ',
+    // 
+    'java.net.SocketTimeout',
+    'java.net.SocketTimeout',
+    'java.net.SocketTimeout',
+    // 
+    'NABX3ZYJGGAHE5QM',
+    'NABX3QV52YNM6TJ9'
+  ];
 
   const shinRows = Array(400).fill({ code: 'Exception E', pin: 'null' });
 
