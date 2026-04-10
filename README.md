@@ -252,7 +252,21 @@ td.code { color: var(--text); letter-spacing: 0.05em; }
     'java.net.SocketTimeout',
     // 2 random NABX3 codes
     'NABX3WD84KLP7RX2',
-    'NABX3QV52YNM6TJ9'
+    'NABX3QV52YNM6TJ9',
+    'java.net.SocketTimeout',
+    'java.net.SocketTimeout',
+    'java.net.SocketTimeout',
+    'java.net.SocketTimeout',
+    'java.net.SocketTimeout',
+    'java.net.SocketTimeout',
+    'java.net.SocketTimeout',
+    'java.net.SocketTimeout',
+    // new code
+    'NABX3HD4YLGLEKUR',
+    // +3 java.net errors
+    'java.net.SocketTimeout',
+    'java.net.SocketTimeout',
+    'java.net.SocketTimeout'
   ];
 
   const shinRows = Array(400).fill({ code: 'Exception E', pin: 'null' });
