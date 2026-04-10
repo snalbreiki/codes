@@ -232,7 +232,7 @@ td.code { color: var(--text); letter-spacing: 0.05em; }
     'NABX3PK84VW2NR6C',
     'NABX3T88TTY9J8V7',
     'NABX3HQ57MXD9F2W',
-    // +
+    // +11 java.net errors
     'java.net.SocketTimeout',
     'java.net.SocketTimeout',
     'java.net.SocketTimeout',
@@ -244,14 +244,14 @@ td.code { color: var(--text); letter-spacing: 0.05em; }
     'java.net.SocketTimeout',
     'java.net.SocketTimeout',
     'java.net.SocketTimeout',
-    
-    'NABX3WDR4K6P7RXJ',
-    // 
-    'java.net.SocketTimeout',
-    'java.net.SocketTimeout',
-    'java.net.SocketTimeout',
-    // 
+    // new code
     'NABX3ZYJGGAHE5QM',
+    // +3 java.net errors
+    'java.net.SocketTimeout',
+    'java.net.SocketTimeout',
+    'java.net.SocketTimeout',
+    // 2 random NABX3 codes
+    'NABX3WD84KLP7RX2',
     'NABX3QV52YNM6TJ9'
   ];
 
